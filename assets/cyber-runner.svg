@@ -1,15 +1,188 @@
-╔══════════════════════════════════════════════════════════════╗
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320">
 
-   ◉ SYSTEM ONLINE                         Java  ██████ 100%
+<defs>
 
-      ✦  ✦  ✦      🌌      ✦  ✦  ✦
+<style>
 
-             👨‍💻  ARJUN SINGH
+.title{
+font:700 42px Arial;
+fill:#58a6ff;
+}
 
-      SOFTWARE DEVELOPER • CYBERSECURITY
+.sub{
+font:600 20px Arial;
+fill:#3fb950;
+}
 
-   [ JAVA ] [ BACKEND ] [ DSA ] [ GIT ] [ SECURITY ]
+.small{
+font:16px monospace;
+fill:#8b949e;
+}
 
-     ████▌▌▌▌▌▌▌ Loading Projects...
+.box{
+fill:#0d1117;
+stroke:#30363d;
+stroke-width:2;
+rx:12;
+}
 
-╚══════════════════════════════════════════════════════════════╝
+.grid{
+stroke:#21262d;
+stroke-width:1;
+}
+
+</style>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="3" result="b"/>
+<feMerge>
+<feMergeNode in="b"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1200" height="320" fill="#0d1117"/>
+
+<!-- GRID -->
+
+<g opacity=".25">
+
+<line x1="0" y1="40" x2="1200" y2="40" class="grid"/>
+<line x1="0" y1="80" x2="1200" y2="80" class="grid"/>
+<line x1="0" y1="120" x2="1200" y2="120" class="grid"/>
+<line x1="0" y1="160" x2="1200" y2="160" class="grid"/>
+<line x1="0" y1="200" x2="1200" y2="200" class="grid"/>
+<line x1="0" y1="240" x2="1200" y2="240" class="grid"/>
+<line x1="0" y1="280" x2="1200" y2="280" class="grid"/>
+
+</g>
+
+<!-- STARS -->
+
+<g fill="#ffffff">
+
+<circle cx="100" cy="40" r="2">
+<animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="250" cy="70" r="2">
+<animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="420" cy="30" r="2">
+<animate attributeName="opacity" values="1;0;1" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="820" cy="50" r="2">
+<animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1050" cy="40" r="2">
+<animate attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- TERMINAL -->
+
+<rect x="70" y="60" width="1060" height="200" class="box"/>
+
+<circle cx="100" cy="85" r="6" fill="#ff5f56"/>
+<circle cx="120" cy="85" r="6" fill="#ffbd2e"/>
+<circle cx="140" cy="85" r="6" fill="#27c93f"/>
+
+<!-- RUNNER -->
+
+<text x="120" y="170" font-size="28">🏃</text>
+
+<animateTransform
+attributeName="transform"
+attributeType="XML"
+type="translate"
+values="0 0;700 0;0 0"
+dur="6s"
+repeatCount="indefinite"/>
+
+<!-- BLOCK -->
+
+<rect x="850" y="160" width="30" height="30" fill="#58a6ff">
+
+<animate
+attributeName="x"
+values="900;-100"
+dur="4s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- TITLE -->
+
+<text x="600" y="135"
+text-anchor="middle"
+class="title"
+filter="url(#glow)">
+
+Arjun Singh
+
+</text>
+
+<text
+x="600"
+y="170"
+text-anchor="middle"
+class="sub">
+
+Software Developer • Cybersecurity Student
+
+</text>
+
+<!-- TERMINAL -->
+
+<text x="120" y="215" class="small">
+
+&gt; Initializing Developer Profile...
+
+</text>
+
+<text x="120" y="240" class="small">
+
+&gt; Loading Java Projects...
+
+</text>
+
+<rect
+x="120"
+y="255"
+width="0"
+height="10"
+fill="#3fb950">
+
+<animate
+attributeName="width"
+values="0;850;0"
+dur="5s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- CURSOR -->
+
+<text
+x="970"
+y="240"
+fill="#3fb950"
+font-size="18">
+
+█
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</text>
+
+</svg>
