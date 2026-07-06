@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Arjun Singh 👋
+
+### Software Developer | Cybersecurity Student
+
+🚀 Welcome to my GitHub Profile!
 
 <!--
 **arjunsingh-rana/arjunsingh-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
