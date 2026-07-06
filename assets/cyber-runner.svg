@@ -1,1 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#0d1117"/>
 
+  <text x="600" y="120"
+        font-size="50"
+        fill="#58a6ff"
+        text-anchor="middle"
+        font-family="Arial">
+    👋 Hi, I'm Arjun Singh
+  </text>
+
+  <text x="600" y="180"
+        font-size="28"
+        fill="#3fb950"
+        text-anchor="middle"
+        font-family="Arial">
+    Software Developer • Cybersecurity Student
+  </text>
+</svg>
