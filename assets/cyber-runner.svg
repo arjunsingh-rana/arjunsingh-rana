@@ -94,4 +94,52 @@
   </rect>
 
   <!-- typewriter role line -->
+  <text x="600" y="178" text-anchor="middle" class="mono" font-size="19" fill="#94a3b8">
+    <tspan fill="#5eead4">&gt;</tspan> <tspan class="accent">
+      <animate attributeName="opacity" values="1" dur="0.1s" begin="0s" fill="freeze"/>
+    </tspan>
+    <tspan fill="#e2e8f0">
+      Software Developer
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.24;0.26;0.49;0.5" dur="8s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan fill="#e2e8f0" opacity="0">
+      Cybersecurity Student
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.27;0.74;0.76;1" dur="8s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan fill="#5eead4" font-weight="700">_
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+
+  <!-- skill pills -->
+  <g class="mono">
+    <g>
+      <rect x="350" y="205" width="88" height="34" rx="17" fill="#111827" stroke="#334155"/>
+      <text x="394" y="227" text-anchor="middle" class="pill-text" font-family="inherit">Java</text>
+    </g>
+    <g>
+      <rect x="448" y="205" width="104" height="34" rx="17" fill="#111827" stroke="#334155"/>
+      <text x="500" y="227" text-anchor="middle" class="pill-text" font-family="inherit">Python</text>
+    </g>
+    <g>
+      <rect x="562" y="205" width="120" height="34" rx="17" fill="#111827" stroke="#334155"/>
+      <text x="622" y="227" text-anchor="middle" class="pill-text" font-family="inherit">Security</text>
+    </g>
+    <g>
+      <rect x="692" y="205" width="102" height="34" rx="17" fill="#111827" stroke="#334155"/>
+      <text x="743" y="227" text-anchor="middle" class="pill-text" font-family="inherit">Linux</text>
+    </g>
+    <g>
+      <rect x="804" y="205" width="110" height="34" rx="17" fill="#111827" stroke="#334155"/>
+      <text x="859" y="227" text-anchor="middle" class="pill-text" font-family="inherit">Networks</text>
+    </g>
+  </g>
+
+  <!-- bottom status line -->
+  <text x="600" y="270" text-anchor="middle" class="mono dim" font-size="13">
+    building things • breaking things (ethically) • always learning
+  </text>
+</svg>
+
+  <!-- typewriter role line -->
   <text x="600" y="178" text-anchor="middle" class="mono" font-size="19"
