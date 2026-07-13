@@ -4,8 +4,7 @@
 
 ### 💻 Software Developer | 🔐 Cybersecurity Student | ☕ Java Developer
 
-<img src="assets/cyber-runner.svg" width="100%" alt="Cyber Runner Banner"/>
-
+  <img src="game.gif" width="100%" alt="Game Banner"/>
 </p>
 
 ---
