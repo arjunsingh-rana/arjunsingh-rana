@@ -55,6 +55,14 @@ public class Arjun {
 
 ---
 
+<p align="center">
+
+  <img src="06f21a161921919.63cd7887d0a70.gif" alt="Working🙂" width="100%">
+
+</p>
+
+---
+
 # 💼 Experience
 
 ## 📊 Data Intern — Rythukart
