@@ -42,6 +42,47 @@ public class Arjun {
         "DSA • Problem Solving";
 }
 ```
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🛡️ PhishGuard</h2>
+
+<p align="center">
+
+<a href="https://github.com/arjunsingh-rana/ML-Phishing-Website-Detection">
+<img src="https://raw.githubusercontent.com/arjunsingh-rana/ML-Phishing-Website-Detection/main/screenshots/home.png" width="100%">
+</a>
+
+</p>
+
+Machine Learning-based phishing website detection system that analyzes URL features using a Random Forest classifier to identify whether a website is legitimate or phishing.
+
+### Key Features
+
+- URL Feature Engineering
+- Random Forest Classifier
+- Flask Web Application
+- Confidence Score Prediction
+- Modern Cybersecurity Dashboard
+
+<p align="center">
+
+<a href="https://github.com/arjunsingh-rana/ML-Phishing-Website-Detection">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
