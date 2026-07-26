@@ -1,99 +1,176 @@
+<h1 align="center">Hi 👋, I'm Arjun Singh Rana</h1>
+
+<h3 align="center">
+Software Developer • Java Developer • Cybersecurity Enthusiast
+</h3>
+
 <p align="center">
-
-# 👋 Hi, I'm Arjun Singh
-
-### 💻 Software Developer | 🔐 Cybersecurity Student | ☕ Java Developer
-
-  <img src="game.gif" width="100%" alt="Game Banner"/>
+<img src="game.gif" width="100%" alt="Banner"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```java
 public class Arjun {
 
     String role = "Software Developer";
 
-    String education = "Final-Year B.Tech CSE (Cybersecurity)";
-
-    String location = "Dehradun, Uttarakhand 🇮🇳";
+    String education = "B.Tech CSE (Cybersecurity)";
 
     String college = "UPES Dehradun";
 
+    String location = "Dehradun, India";
+
     String[] languages = {
-        "Java"
+        "Java",
+        "Python",
+        "SQL",
+        "C"
     };
 
-    String[] backend = {
-        "OOP",
+    String[] skills = {
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming",
         "DBMS",
-        "Git"
+        "Git",
+        "Machine Learning"
     };
 
     String[] interests = {
         "Backend Development",
         "Cybersecurity",
-        "Software Engineering",
+        "Machine Learning"
     };
 
     String currentlyLearning =
-        "DSA • Problem Solving";
+        "Advanced DSA • System Design";
 }
 ```
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,python,git,vscode,idea,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode,idea,html,css,flask&theme=dark"/>
 
 </p>
 
 ---
 
-<p align="center">
+## 🚀 Featured Projects
 
-  <img src="06f21a161921919.63cd7887d0a70.gif" alt="Working🙂" width="100%">
+### 🛡️ PhishGuard
 
-</p>
+Machine Learning based phishing website detection using URL feature engineering and Random Forest.
+
+**Tech Stack**
+
+- Python
+- Flask
+- Scikit-learn
+- Pandas
+- Machine Learning
+
+🔗 Repository
+
+https://github.com/arjunsingh-rana/ML-Phishing-Website-Detection
 
 ---
 
-# 💼 Experience
+### 💳 Digital Payments Platform
 
-## 📊 Data Intern — Rythukart
+A full-stack digital payment platform inspired by modern peer-to-peer payment applications.
+
+**Tech Stack**
+
+- React
+- Node.js
+- MongoDB
+
+---
+
+### 🏥 ALLC
+
+Doctor Appointment Booking System with secure online payments.
+
+**Tech Stack**
+
+- React
+- Firebase
+- Node.js
+
+---
+
+## 💼 Experience
+
+### 📊 Data Intern — Rythukart
 
 - Data Cleaning
-- Excel
 - Data Formatting
-- Dataset Management
+- Excel Automation
+- Agricultural Dataset Management
 
-## 🔐 Research Intern
+---
+
+### 🔐 Research Intern
 
 Creative Educational & Social Welfare Society
 
 - Cybersecurity Research
 - Technical Documentation
-- Analytical Reports
+- Report Preparation
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-✔ DSA
-
-✔ Problem Solving
+- Data Structures & Algorithms
+- Java Backend Development
+- Machine Learning
+- Software Engineering
 
 ---
 
-# 📫 Connect With Me
+## 📈 GitHub Stats
 
-📧 arjunrana97@gmail.com
+<p align="center">
 
-💼 LinkedIn
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arjunsingh-rana&show_icons=true&theme=tokyonight"/>
 
-[www.linkedin.com/in/arjun-singh-750984297](https://shorturl.at/96mVK)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsingh-rana&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=arjunsingh-rana&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email**
+
+arjunrana97@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/arjun-singh-750984297
+
+🌐 **GitHub**
+
+https://github.com/arjunsingh-rana
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
