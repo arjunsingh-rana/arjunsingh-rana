@@ -43,65 +43,43 @@ public class Arjun {
 }
 ```
 ---
-
 # 🚀 Featured Projects
-
 <table>
 <tr>
-
 <td width="50%" valign="top">
-
 <h2 align="center">🛡️ PhishGuard</h2>
-
 <p align="center">
-
 <a href="https://github.com/arjunsingh-rana/ML-Phishing-Website-Detection">
 <img src="https://raw.githubusercontent.com/arjunsingh-rana/ML-Phishing-Website-Detection/main/screenshots/home.png" width="100%">
 </a>
-
 </p>
-
 Machine Learning-based phishing website detection system that analyzes URL features using a Random Forest classifier to identify whether a website is legitimate or phishing.
-
 ### Key Features
-
 - URL Feature Engineering
 - Random Forest Classifier
 - Flask Web Application
 - Confidence Score Prediction
 - Modern Cybersecurity Dashboard
-
 <p align="center">
-
 <a href="https://github.com/arjunsingh-rana/ML-Phishing-Website-Detection">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
+<a href="https://ml-phishing-website-detection-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 </p>
-
 </td>
-
 </tr>
 </table>
-
 ---
-
 # 🚀 Tech Stack
-
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,c,python,git,vscode,idea,mysql&theme=dark"/>
-
 </p>
-
 ---
-
 <p align="center">
-
   <img src="06f21a161921919.63cd7887d0a70.gif" alt="Working🙂" width="100%">
-
 </p>
-
 ---
 
 # 💼 Experience
