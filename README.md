@@ -42,7 +42,6 @@ public class Arjun {
         "DSA • Problem Solving";
 }
 ```
----
 # 🚀 Featured Projects
 
 <table>
@@ -64,25 +63,36 @@ public class Arjun {
 Machine Learning-based phishing website detection system that analyzes URL features using a Random Forest classifier to identify whether a website is legitimate or phishing.
 </p>
 
-### ✨ Key Features
+<h3>✨ Key Features</h3>
 
-- URL Feature Engineering
-- Random Forest Classifier
-- Flask Web Application
-- Confidence Score Prediction
-- Modern Cybersecurity Dashboard
+<ul>
+<li>URL Feature Engineering</li>
+<li>Random Forest Classifier</li>
+<li>Flask Web Application</li>
+<li>Confidence Score Prediction</li>
+<li>Modern Cybersecurity Dashboard</li>
+<li>Phishing Risk Classification</li>
+<li>Real-Time URL Analysis</li>
+</ul>
+
+<h3>🛠️ Tech Stack</h3>
+
+<p>
+Python · Flask · Scikit-learn · HTML · CSS · JavaScript
+</p>
 
 <p align="center">
 <a href="https://github.com/arjunsingh-rana/ML-Phishing-Website-Detection">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
+&nbsp;
 <a href="https://ml-phishing-website-detection-eight.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
 
 </td>
+
 
 <!-- ==================== RESUMEIQ ==================== -->
 
@@ -97,28 +107,32 @@ Machine Learning-based phishing website detection system that analyzes URL featu
 </p>
 
 <p>
-AI-powered resume analyzer and ATS auditor that parses resumes, evaluates them against target roles, calculates ATS compatibility scores, identifies skill gaps, and provides actionable recommendations.
+AI-powered resume analyzer and ATS auditor that evaluates resumes against target roles, calculates ATS compatibility scores, identifies skill gaps, and provides actionable recommendations.
 </p>
 
-### ✨ Key Features
+<h3>✨ Key Features</h3>
 
-- PDF Resume Upload & Text Parsing
-- Role-Targeted Resume Evaluation
-- ATS Compatibility Scoring
-- Technical Skills & Keyword Gap Analysis
-- AI-Powered Bullet Rewriting
-- Multi-LLM & Heuristic Analysis
-- Automated Email Reports
+<ul>
+<li>PDF Resume Upload &amp; Text Parsing</li>
+<li>Role-Targeted Resume Evaluation</li>
+<li>ATS Compatibility Scoring</li>
+<li>Technical Skills &amp; Keyword Gap Analysis</li>
+<li>AI-Powered Bullet Rewriting</li>
+<li>Multi-LLM &amp; Heuristic Analysis</li>
+<li>Automated Email Reports</li>
+</ul>
 
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
+<p>
 Python · Flask · HTML · CSS · JavaScript · OpenAI · Google Gemini
+</p>
 
 <p align="center">
 <a href="https://github.com/arjunsingh-rana/ResumeIQ">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
+&nbsp;
 <a href="https://resume-iq-pink-six.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
@@ -128,17 +142,20 @@ Python · Flask · HTML · CSS · JavaScript · OpenAI · Google Gemini
 
 </tr>
 </table>
---- 
+
+---
 
 # 🚀 Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,c,python,git,vscode,idea,mysql&theme=dark"/>
 </p>
+
 ---
+
 <p align="center">
-  <img src="06f21a161921919.63cd7887d0a70.gif" alt="Working🙂" width="100%">
+<img src="06f21a161921919.63cd7887d0a70.gif" alt="Working🙂" width="100%">
 </p>
----
 
 # 💼 Experience
 
