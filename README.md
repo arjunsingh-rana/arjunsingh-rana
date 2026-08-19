@@ -56,7 +56,7 @@ public class Arjun {
 
 <p align="center">
 <a href="https://github.com/arjunsingh-rana/ML-Phishing-Website-Detection">
-<img src="./assets/resumeiq-home.png" width="100%">
+<img src="https://raw.githubusercontent.com/arjunsingh-rana/ML-Phishing-Website-Detection/main/screenshots/home.png" width="100%">
 </a>
 </p>
 
@@ -83,7 +83,6 @@ Machine Learning-based phishing website detection system that analyzes URL featu
 </p>
 
 </td>
-
 
 <!-- ==================== RESUMEIQ ==================== -->
 
@@ -129,7 +128,8 @@ Python · Flask · HTML · CSS · JavaScript · OpenAI · Google Gemini
 
 </tr>
 </table>
----
+--- 
+
 # 🚀 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,c,python,git,vscode,idea,mysql&theme=dark"/>
