@@ -56,7 +56,7 @@ public class Arjun {
 
 <p align="center">
 <a href="https://github.com/arjunsingh-rana/ML-Phishing-Website-Detection">
-<img src="https://raw.githubusercontent.com/arjunsingh-rana/ML-Phishing-Website-Detection/main/screenshots/home.png" width="100%">
+<img src="./assets/resumeiq-home.png" width="100%">
 </a>
 </p>
 
