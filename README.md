@@ -93,7 +93,7 @@ Machine Learning-based phishing website detection system that analyzes URL featu
 
 <p align="center">
 <a href="https://github.com/arjunsingh-rana/ResumeIQ">
-<img src="https://resume-iq-pink-six.vercel.app/" width="100%">
+<img src="https://raw.githubusercontent.com/arjunsingh-rana/arjunsingh-rana/main/assets/resumeiq-home.png" width="100%">
 </a>
 </p>
 
