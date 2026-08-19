@@ -60,7 +60,7 @@ public class Arjun {
 </p>
 
 <p>
-Machine Learning-based phishing website detection system that analyzes URL features using a Random Forest classifier to identify whether a website is legitimate or phishing.
+Machine Learning-based phishing website detection system that analyzes and extract the URL features using a Random Forest classifier to identify whether a website is legitimate or phishing.
 </p>
 
 <h3>✨ Key Features</h3>
